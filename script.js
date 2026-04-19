@@ -216,7 +216,9 @@ function renderAboutView() {
     return `
     <div class="about">
         <h2>About This App</h2>
-        <p>This app allows users to search movies using the TMDb API.</p>
+        <p>Welcome to the Movie Search and Bookmark App! This is the first time i'm building such an app with an API.</p>
+        <p>As this app allows users to search movies using the TMDb API.</p>
+        <p>Users can bookmark their favorite movies and manage their bookmarks easily.</p>
 
         <h3>Features</h3>
         <ul>
